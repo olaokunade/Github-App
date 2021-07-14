@@ -1,2 +1,2 @@
 # Github-App
-REACT JS API APP
+ANGULAR JS API APP
